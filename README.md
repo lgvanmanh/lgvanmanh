@@ -1,16 +1,27 @@
-### Hi there 👋
+### xin chào, chào mừng bạn tới bài giới thiệu của tôi !
 
-<!--
-**lgvanmanh/lgvanmanh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Đóng góp
 
-Here are some ideas to get you started:
+Nếu bạn muốn đóng góp vào dự án của tôi, bạn có thể làm như sau: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+chuyển khoản internet banking - BIDV: 39010001806897
+
+## Tác giả
+
+Tên: **Lg Văn Mạnh**
+
+## Giấy phép
+
+BSD 3-Clause License (hoặc giấy phép tùy ý của bạn)
+
+## Liên hệ
+
+Đặt bất kỳ câu hỏi hoặc góp ý nào tại đây: 
+
+**lgvanmanhdev@gmail.com** HOẶC [facebook](https://facebook.com/fbvanmanh)
+
+Bạn cũng có thể theo dõi các dự án của tôi tại: 
+
+[@lgvanmanh](https://github.com/lgvanmanh/)
+
+
