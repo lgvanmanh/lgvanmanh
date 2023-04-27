@@ -10,9 +10,6 @@ chuyển khoản internet banking - BIDV: 39010001806897
 
 Tên: **Lg Văn Mạnh**
 
-## Giấy phép
-
-BSD 3-Clause License (hoặc giấy phép tùy ý của bạn)
 
 ## Liên hệ
 
